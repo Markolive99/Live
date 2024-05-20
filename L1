@@ -1,0 +1,514 @@
+#EXTM3U url-tvg="https://github.com/dikodahan/share02/raw/main/src/DikoPlusEPG.xml.gz"
+
+
+#EXTINF:0 tvg-id="kan-11-YES" tvg-logo="https://dikodahan.github.io/picons/light/Kan-11.png" tvg-rec="3",כאן 11
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2332/index.m3u
+
+#EXTINF:0 tvg-id="kan-11-YES" tvg-logo="https://dikodahan.github.io/picons/light/Kan-11.png" tvg-rec="0",כאן 11
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12237/index.m3u
+
+#EXTINF:0 tvg-id="keshet-12-YES" tvg-logo="https://dikodahan.github.io/picons/light/Keshet-12.png" tvg-rec="3",קשת 12
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2329/index.m3u
+
+#EXTINF:0 tvg-id="keshet-12-YES" tvg-logo="https://dikodahan.github.io/picons/light/Keshet-12.png" tvg-rec="3",קשת 12
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2349/index.m3u
+
+#EXTINF:0 tvg-id="keshet-12-YES" tvg-logo="https://dikodahan.github.io/picons/light/Keshet-12.png" tvg-rec="0",קשת 12
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12236/index.m3u
+
+#EXTINF:0 tvg-id="reshet-13-YES" tvg-logo="https://dikodahan.github.io/picons/light/Reshet-13.png" tvg-rec="3",רשת 13
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2330/index.m3u
+
+#EXTINF:0 tvg-id="reshet-13-YES" tvg-logo="https://dikodahan.github.io/picons/light/Reshet-13.png" tvg-rec="0",רשת 13
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12260/index.m3u
+
+#EXTINF:0 tvg-id="now-14-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-14.png" tvg-rec="0",ערוץ 14
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12261/index.m3u
+
+#EXTINF:0 tvg-id="channel-98-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-98.png" tvg-rec="0",ערוץ 98
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2369/index.m3u
+
+#EXTINF:0 tvg-id="hidabrut-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hidabrut.png" tvg-rec="0",ערוץ ההידברות
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12211/index.m3u
+
+#EXTINF:0 tvg-id="kan-chinuchit-23-YES" tvg-logo="https://dikodahan.github.io/picons/light/Kan-Chinuchit.png" tvg-rec="3",כאן חינוכית
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2380/index.m3u
+
+#EXTINF:0 tvg-id="knesset-99-YES" tvg-logo="https://dikodahan.github.io/picons/light/Knesset.png" tvg-rec="0",ערוץ הכנסת
+#EXTGRP:ראשי
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12269/index.m3u
+
+#EXTINF:0 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png" tvg-rec="3",SD ספורט 1
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2353/index.m3u
+
+#EXTINF:0 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png" tvg-rec="0",SD ספורט 1
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12249/index.m3u
+
+#EXTINF:0 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png" tvg-rec="3",ספורט 2
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2352/index.m3u
+
+#EXTINF:0 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png" tvg-rec="0",ספורט 2
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12250/index.m3u
+
+#EXTINF:0 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png" tvg-rec="3",ספורט 3
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2388/index.m3u
+
+#EXTINF:0 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png" tvg-rec="0",ספורט 3
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12251/index.m3u
+
+#EXTINF:0 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png" tvg-rec="3",ספורט 4
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2389/index.m3u
+
+#EXTINF:0 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png" tvg-rec="0",ספורט 4
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12252/index.m3u
+
+#EXTINF:0 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png" tvg-rec="3",ספורט 5
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2391/index.m3u
+
+#EXTINF:0 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png" tvg-rec="3",ספורט 5
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2341/index.m3u
+
+#EXTINF:0 tvg-id="sport-5-4k-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport-4K.png" tvg-rec="0",4K ספורט 5
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12277/index.m3u
+
+#EXTINF:0 tvg-id="sport-5-live-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Live.png" tvg-rec="3",ספורט 5 לייב
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2362/index.m3u
+
+#EXTINF:0 tvg-id="sport-5-live-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Live.png" tvg-rec="0",ספורט 5 לייב
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12255/index.m3u
+
+#EXTINF:0 tvg-id="sport-5-stars-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Stars.png" tvg-rec="0",ספורט 5 סטארס
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12232/index.m3u
+
+#EXTINF:0 tvg-id="sport-5-stars-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Stars.png" tvg-rec="3",ספורט 5 סטארס
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/7074/index.m3u
+
+#EXTINF:0 tvg-id="sport-5-stars-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Stars.png" tvg-rec="0",ספורט 5 סטארס
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12278/index.m3u
+
+#EXTINF:0 tvg-id="one-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE.png" tvg-rec="3",ONE
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2340/index.m3u
+
+#EXTINF:0 tvg-id="one-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE.png" tvg-rec="0",ONE
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12230/index.m3u
+
+#EXTINF:0 tvg-id="one-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE2.png" tvg-rec="0",ONE 2
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12231/index.m3u
+
+#EXTINF:0 tvg-id="one-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE2.png" tvg-rec="3",ONE 2
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2373/index.m3u
+
+#EXTINF:0 tvg-id="eurosport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Eurosport2.png" tvg-rec="3",יורוספורט 2
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/7203/index.m3u
+
+#EXTINF:0 tvg-id="extreme-sports-HOT" tvg-logo="https://dikodahan.github.io/picons/light/Extreme-Sports.png" tvg-rec="0",ספורט אקסטרים
+#EXTGRP:ספורט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12208/index.m3u
+
+#EXTINF:0 tvg-id="humor-channel-YES" tvg-logo="https://dikodahan.github.io/picons/light/Humor-Channel.png" tvg-rec="0",ערוץ ההומור
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12223/index.m3u
+
+#EXTINF:0 tvg-id="tv-action-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-TV-Action.png" tvg-rec="3",יס טלויזיה פעולה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2346/index.m3u
+
+#EXTINF:0 tvg-id="tv-action-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-TV-Action.png" tvg-rec="0",יס טלויזיה פעולה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12280/index.m3u
+
+#EXTINF:0 tvg-id="tv-comedy-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-TV-Comedy.png" tvg-rec="3",יס טלויזיה קומדיה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2345/index.m3u
+
+#EXTINF:0 tvg-id="tv-comedy-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-TV-Comedy.png" tvg-rec="0",יס טלויזיה קומדיה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12281/index.m3u
+
+#EXTINF:0 tvg-id="tv-drama-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-TV-Drama.png" tvg-rec="3",יס טלויזיה דרמה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2343/index.m3u
+
+#EXTINF:0 tvg-id="tv-drama-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-TV-Drama.png" tvg-rec="3",יס טלויזיה דרמה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2351/index.m3u
+
+#EXTINF:0 tvg-id="tv-drama-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-TV-Drama.png" tvg-rec="0",יס טלויזיה דרמה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12282/index.m3u
+
+#EXTINF:0 tvg-id="movies-action-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Movies-Action.png" tvg-rec="3",יס סרטים פעולה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2350/index.m3u
+
+#EXTINF:0 tvg-id="movies-action-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Movies-Action.png" tvg-rec="0",יס סרטים פעולה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12270/index.m3u
+
+#EXTINF:0 tvg-id="movies-comedy-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Movies-Comedy.png" tvg-rec="3",יס סרטים קומדיה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2348/index.m3u
+
+#EXTINF:0 tvg-id="movies-comedy-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Movies-Comedy.png" tvg-rec="0",יס סרטים קומדיה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12271/index.m3u
+
+#EXTINF:0 tvg-id="movies-drama-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Movies-Drama.png" tvg-rec="0",יס סרטים דרמה
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12272/index.m3u
+
+#EXTINF:0 tvg-id="israeli-cinema-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Israeli.png" tvg-rec="3",יס קולנוע ישראלי
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2342/index.m3u
+
+#EXTINF:0 tvg-id="israeli-cinema-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Israeli.png" tvg-rec="0",יס קולנוע ישראלי
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12257/index.m3u
+
+#EXTINF:0 tvg-id="movies-kids-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Movies-Kids.png" tvg-rec="3",יס סרטים ילדים
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2365/index.m3u
+
+#EXTINF:0 tvg-id="movies-kids-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Movies-Kids.png" tvg-rec="0",יס סרטים ילדים
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12273/index.m3u
+
+#EXTINF:0 tvg-id="docu-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Docu.png" tvg-rec="3",יס דוקו
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2344/index.m3u
+
+#EXTINF:0 tvg-id="docu-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Docu.png" tvg-rec="0",יס דוקו
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12258/index.m3u
+
+#EXTINF:0 tvg-id="docu-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Docu.png" tvg-rec="3",יס דוקו
+#EXTGRP:ערוצי יס
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/7113/index.m3u
+
+#EXTINF:0 tvg-id="3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-3.png" tvg-rec="3",הוט 3
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2367/index.m3u
+
+#EXTINF:0 tvg-id="3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-3.png" tvg-rec="0",הוט 3
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12214/index.m3u
+
+#EXTINF:0 tvg-id="8-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-8.png" tvg-rec="0",הוט 8
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12216/index.m3u
+
+#EXTINF:0 tvg-id="zone-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Zone.png" tvg-rec="3",הוט זון
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2360/index.m3u
+
+#EXTINF:0 tvg-id="zone-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Zone.png" tvg-rec="0",הוט זון
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12222/index.m3u
+
+#EXTINF:0 tvg-id="comedy-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Comedy-Central.png" tvg-rec="0",הוט קומדי סנטרל
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12217/index.m3u
+
+#EXTINF:0 tvg-id="entertainment-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Bidur.png" tvg-rec="3",הוט בידור ישראלי
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2379/index.m3u
+
+#EXTINF:0 tvg-id="entertainment-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Bidur.png" tvg-rec="0",הוט בידור ישראלי
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12219/index.m3u
+
+#EXTINF:0 tvg-id="cinema-1-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C1.png" tvg-rec="3",הוט סינמה 1
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2357/index.m3u
+
+#EXTINF:0 tvg-id="cinema-1-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C1.png" tvg-rec="0",הוט סינמה 1
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12254/index.m3u
+
+#EXTINF:0 tvg-id="cinema-2-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C2.png" tvg-rec="3",הוט סינמה 2
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2371/index.m3u
+
+#EXTINF:0 tvg-id="cinema-2-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C2.png" tvg-rec="0",הוט סינמה 2
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12215/index.m3u
+
+#EXTINF:0 tvg-id="cinema-3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C3.png" tvg-rec="3",הוט סינמה 3
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2372/index.m3u
+
+#EXTINF:0 tvg-id="cinema-3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C3.png" tvg-rec="0",הוט סינמה 3
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12220/index.m3u
+
+#EXTINF:0 tvg-id="cinema-4-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C4.png" tvg-rec="3",הוט סינמה 4
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2356/index.m3u
+
+#EXTINF:0 tvg-id="cinema-4-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C4.png" tvg-rec="0",הוט סינמה 4
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12218/index.m3u
+
+#EXTINF:0 tvg-id="hbo-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-HBO.png" tvg-rec="3",HBO הוט
+#EXTGRP:ערוצי הוט
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2354/index.m3u
+
+#EXTINF:0 tvg-id="baby-YES" tvg-logo="https://dikodahan.github.io/picons/light/Baby.png" tvg-rec="3",בייבי
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2370/index.m3u
+
+#EXTINF:0 tvg-id="baby-YES" tvg-logo="https://dikodahan.github.io/picons/light/Baby.png" tvg-rec="0",בייבי
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12239/index.m3u
+
+#EXTINF:0 tvg-id="luli-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Luli.png" tvg-rec="3",הוט לולי
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2364/index.m3u
+
+#EXTINF:0 tvg-id="luli-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Luli.png" tvg-rec="0",הוט לולי
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12246/index.m3u
+
+#EXTINF:0 tvg-id="hop-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hop.png" tvg-rec="3",הופ!
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2338/index.m3u
+
+#EXTINF:0 tvg-id="hop-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hop.png" tvg-rec="0",הופ!
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12244/index.m3u
+
+#EXTINF:0 tvg-id="hop-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hop.png" tvg-rec="0",הופ!
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12245/index.m3u
+
+#EXTINF:0 tvg-id="hop-yaldut-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hop-Yaldut.png" tvg-rec="3",הופ! ילדות ישראלית
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2383/index.m3u
+
+#EXTINF:0 tvg-id="hop-yaldut-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hop-Yaldut.png" tvg-rec="0",הופ! ילדות ישראלית
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12213/index.m3u
+
+#EXTINF:0 tvg-id="a-plus-PARTNER" tvg-logo="https://dikodahan.github.io/picons/light/A-Plus.png" tvg-rec="0",A+
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12266/index.m3u
+
+#EXTINF:0 tvg-id="wiz-YES" tvg-logo="https://dikodahan.github.io/picons/light/Wiz.png" tvg-rec="0",וויז
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12266/index.m3u
+
+#EXTINF:0 tvg-id="disney-YES" tvg-logo="https://dikodahan.github.io/picons/light/Disney.png" tvg-rec="0",דיסני
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12242/index.m3u
+
+#EXTINF:0 tvg-id="nick-YES" tvg-logo="https://dikodahan.github.io/picons/light/Nick.png" tvg-rec="0",ניקולודיאון
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12229/index.m3u
+
+#EXTINF:0 tvg-id="disney-junior-YES" tvg-logo="https://dikodahan.github.io/picons/light/Disney-Jr.png" tvg-rec="3",דיסני ג׳וניור
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2333/index.m3u
+
+#EXTINF:0 tvg-id="disney-junior-YES" tvg-logo="https://dikodahan.github.io/picons/light/Disney-Jr.png" tvg-rec="0",דיסני ג׳וניור
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12206/index.m3u
+
+#EXTINF:0 tvg-id="nick-junior-YES" tvg-logo="https://dikodahan.github.io/picons/light/Nick-Jr.png" tvg-rec="3",ניק ג׳וניור
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2337/index.m3u
+
+#EXTINF:0 tvg-id="nick-junior-YES" tvg-logo="https://dikodahan.github.io/picons/light/Nick-Jr.png" tvg-rec="0",ניק ג׳וניור
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12228/index.m3u
+
+#EXTINF:0 tvg-id="junior-YES" tvg-logo="https://dikodahan.github.io/picons/light/Junior.png" tvg-rec="3",ג׳וניור
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2366/index.m3u
+
+#EXTINF:0 tvg-id="junior-YES" tvg-logo="https://dikodahan.github.io/picons/light/Junior.png" tvg-rec="0",ג׳וניור
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12240/index.m3u
+
+#EXTINF:0 tvg-id="teen-nick-YES" tvg-logo="https://dikodahan.github.io/picons/light/TeenNick.png" tvg-rec="3",יס ניק טין
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2334/index.m3u
+
+#EXTINF:0 tvg-id="zoom-YES" tvg-logo="https://dikodahan.github.io/picons/light/Zoom.png" tvg-rec="3",זום
+#EXTGRP:ילדים
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2359/index.m3u
+
+#EXTINF:0 tvg-id="national-geographic-YES" tvg-logo="https://dikodahan.github.io/picons/light/National-Geographic.png" tvg-rec="0",נשיונל ג׳יאוגרפיק
+#EXTGRP:טבע והיסטוריה
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12247/index.m3u
+
+#EXTINF:0 tvg-id="national-geographic-YES" tvg-logo="https://dikodahan.github.io/picons/light/National-Geographic.png" tvg-rec="0",נשיונל ג׳יאוגרפיק
+#EXTGRP:טבע והיסטוריה
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12259/index.m3u
+
+#EXTINF:0 tvg-id="natgeo-wild-YES" tvg-logo="https://dikodahan.github.io/picons/light/Nat-Geo-Wild.png" tvg-rec="0",נשיונל ג׳יאוגרפיק פראי
+#EXTGRP:טבע והיסטוריה
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12248/index.m3u
+
+#EXTINF:0 tvg-id="discovery-YES" tvg-logo="https://dikodahan.github.io/picons/light/Discovery.png" tvg-rec="3",דיסקברי
+#EXTGRP:טבע והיסטוריה
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2358/index.m3u
+
+#EXTINF:0 tvg-id="discovery-YES" tvg-logo="https://dikodahan.github.io/picons/light/Discovery.png" tvg-rec="0",דיסקברי
+#EXTGRP:טבע והיסטוריה
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12241/index.m3u
+
+#EXTINF:0 tvg-id="history-hd-YES" tvg-logo="https://dikodahan.github.io/picons/light/History-HD.png" tvg-rec="0",HD היסטוריה
+#EXTGRP:טבע והיסטוריה
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12265/index.m3u
+
+#EXTINF:0 tvg-id="health-YES" tvg-logo="https://dikodahan.github.io/picons/light/Health.png" tvg-rec="3",ערוץ הבריאות
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2378/index.m3u
+
+#EXTINF:0 tvg-id="health-YES" tvg-logo="https://dikodahan.github.io/picons/light/Health.png" tvg-rec="0",ערוץ הבריאות
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12210/index.m3u
+
+#EXTINF:0 tvg-id="good-life-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hachaim.png" tvg-rec="3",ערוץ החיים הטובים
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2355/index.m3u
+
+#EXTINF:0 tvg-id="home-plus-YES" tvg-logo="https://dikodahan.github.io/picons/light/Home-Plus.png" tvg-rec="3",בית+
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2339/index.m3u
+
+#EXTINF:0 tvg-id="ftv-il-YES" tvg-logo="https://dikodahan.github.io/picons/light/FTV-Israel.png" tvg-rec="3",ערוץ האופנה הישראלי
+#EXTGRP:IL: Culture & Style
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2368/index.m3u
+
+#EXTINF:0 tvg-id="e-entertainment-YES" tvg-logo="https://dikodahan.github.io/picons/light/E-Entertainment.png" tvg-rec="0",E! ערוץ
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12243/index.m3u
+
+#EXTINF:0 tvg-id="travel-channel-il-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hatiyulim.png" tvg-rec="3",ערוץ הטיולים הישראלי
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2361/index.m3u
+
+#EXTINF:0 tvg-id="travel-channel-il-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hatiyulim.png" tvg-rec="0",ערוץ הטיולים הישראלי
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12279/index.m3u
+
+#EXTINF:0 tvg-id="food-channel-YES" tvg-logo="https://dikodahan.github.io/picons/light/Haochel.png" tvg-rec="3",ערוץ האוכל
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2377/index.m3u
+
+#EXTINF:0 tvg-id="food-channel-YES" tvg-logo="https://dikodahan.github.io/picons/light/Haochel.png" tvg-rec="0",ערוץ האוכל
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12209/index.m3u
+
+#EXTINF:0 tvg-id="ego-YES" tvg-logo="https://dikodahan.github.io/picons/light/Ego.png" tvg-rec="3",ערוץ אגו
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2376/index.m3u
+
+#EXTINF:0 tvg-id="ego-YES" tvg-logo="https://dikodahan.github.io/picons/light/Ego.png" tvg-rec="0",ערוץ אגו
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12207/index.m3u
+
+#EXTINF:0 tvg-id="channel-24-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-24.png" tvg-rec="0",ערוץ 24
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12262/index.m3u
+
+#EXTINF:0 tvg-id="muzika-il-HOT" tvg-logo="https://dikodahan.github.io/picons/light/Music-il.png" tvg-rec="0",IL מוזיקה
+#EXTGRP:תרבות וסטייל
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12226/index.m3u
+
+#EXTINF:0 tvg-id="mtv-live-YES" tvg-logo="https://dikodahan.github.io/picons/light/MTV-Live.png" tvg-rec="0",MTV לייב
+#EXTGRP:מוזיקה
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12274/index.m3u
+
+#EXTINF:0 tvg-id="i24-YES" tvg-logo="https://dikodahan.github.io/picons/light/France-24.png" tvg-rec="3",i24 צרפת
+#EXTGRP:חדשות מהעולם
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2386/index.m3u
+
+#EXTINF:0 tvg-id="israel-plus-9-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-9.png" tvg-rec="3",ערוץ 9
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2374/index.m3u
+
+#EXTINF:0 tvg-id="israel-plus-9-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-9.png" tvg-rec="3",ערוץ 9
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2331/index.m3u
+
+#EXTINF:0 tvg-id="makan-33-YES" tvg-logo="https://dikodahan.github.io/picons/light/Makan-33.png" tvg-rec="3",מכאן 33
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2381/index.m3u
+
+#EXTINF:0 tvg-id="makan-33-YES" tvg-logo="https://dikodahan.github.io/picons/light/Makan-33.png" tvg-rec="0",מכאן 33
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12225/index.m3u
+
+#EXTINF:0 tvg-id="hala-tv-YES" tvg-logo="https://dikodahan.github.io/picons/light/Hala-TV.png" tvg-rec="0",ערוץ הלא טיוי
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12264/index.m3u
+
+#EXTINF:0 tvg-id="viva-YES" tvg-logo="https://dikodahan.github.io/picons/light/Viva.png" tvg-rec="3",ויוה
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2387/index.m3u
+
+#EXTINF:0 tvg-id="viva-YES" tvg-logo="https://dikodahan.github.io/picons/light/Viva.png" tvg-rec="0",ויוה
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12233/index.m3u
+
+#EXTINF:0 tvg-id="viva-plus-YES" tvg-logo="https://dikodahan.github.io/picons/light/Viva-Plus.png" tvg-rec="3",ויוה+
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2382/index.m3u
+
+#EXTINF:0 tvg-id="viva-plus-YES" tvg-logo="https://dikodahan.github.io/picons/light/Viva-Plus.png" tvg-rec="0",ויוה+
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12234/index.m3u
+
+#EXTINF:0 tvg-id="mediteranean-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yam-Tihoni.png" tvg-rec="3",הערוץ הים תיכוני
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2390/index.m3u
+
+#EXTINF:0 tvg-id="mediteranean-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yam-Tihoni.png" tvg-rec="0",הערוץ הים תיכוני
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12235/index.m3u
+
+#EXTINF:0 tvg-id="turkish-drama-plus-YES" tvg-logo="https://dikodahan.github.io/picons/light/Turkish-Drama-Plus.png" tvg-rec="3",ערוץ הדרמות הטורקיות+
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/2363/index.m3u
+
+#EXTINF:0 tvg-id="bollywood-hd-HOT" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Bollywood.png" tvg-rec="0",הוט בוליווד
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12267/index.m3u
+
+#EXTINF:0 tvg-id="bollyshow-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Bollyshow.png" tvg-rec="0",בולישואו
+#EXTGRP:שפות זרות
+http://ombrlgiv.akciatv.ru/iptv/92CLT2GW7DGZ9K/12268/index.m3u
