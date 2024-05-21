@@ -1,70 +1,54 @@
 #EXTM3U url-tvg="https://github.com/dikodahan/share02/raw/main/src/DikoPlusEPG.xml.gz"
 
 #EXTINF:-1 tvg-id="kan-11-YES" tvg-logo="https://dikodahan.github.io/picons/light/Kan-11.png", channel 24
-#EXTGRP:ראשי
 http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/12237/index.m3u8
 
 #EXTINF:-1 tvg-id="keshet-12-YES" tvg-logo="https://dikodahan.github.io/picons/light/Keshet-12.png",keshet 12
-#EXTGRP:ראשי
 http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/12236/index.m3u8
 
 #EXTINF:-1 tvg-id="keshet-12-YES" tvg-logo="https://dikodahan.github.io/picons/light/Keshet-12.png",keshet 12
-#EXTGRP:ראשי
 http://crystal.ottc.pro:80/שםמשתמש/סיסמא/233262
 
 #EXTINF:-1 tvg-id="reshet-13-YES" tvg-logo="https://dikodahan.github.io/picons/light/Reshet-13.png",reshet 13
-#EXTGRP:ראשי
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 
 #EXTINF:-1 tvg-id="reshet-13-YES" tvg-logo="https://dikodahan.github.io/picons/light/Reshet-13.png",reshet 13
-#EXTGRP:ראשי
 http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/12260/index.m3u8
 
 #EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-14.png",channel 14
-#EXTGRP:ראשי
 http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/12261/index.m3u8
 
 #EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-14.png",channel 14
-#EXTGRP:ראשי
 http://crystal.ottc.pro:80/שםמשתמש/סיסמא/105867
 
 #EXTINF:-1 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png",sport 1
-#EXTGRP:ספורט
 http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/2353/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png",sport 1
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2353/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png",sport 1
-#EXTGRP:ספורט
 http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2353/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png",sport 2
-#EXTGRP:ספורט
 http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/2352/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png",sport 2
-#EXTGRP:ספורט
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2352/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png",sport 2
-#EXTGRP:ספורט
 http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2352/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
-#EXTGRP:ספורט
 http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/2388/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
-#EXTGRP:ספורט
 http://opplex.tv:8080/adnan8710/adnan/351345
 
 #EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
-#EXTGRP:ספורט
 http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/2388/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
-#EXTGRP:ספורט
 http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2388/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
@@ -72,77 +56,55 @@ http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2388/index.m3u8
 http://p1.proiptv.co:88/b8d77e8635516eec/HAZMMWRYQV/278206
 
 #EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png",sport 4
-#EXTGRP:ספורט
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2389/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png",sport 4
-#EXTGRP:ספורט
 http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/2389/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png",sport 4
-#EXTGRP:ספורט
 http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/2389/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
-#EXTGRP:ספורט
 http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2391/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
-#EXTGRP:ספורט
 http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2391/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
-#EXTGRP:ספורט
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2391/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
-#EXTGRP:ספורט
 http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/2391/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
-#EXTGRP:ספורט
 http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/2391/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-5-live-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Live.png",sport 5 live
-#EXTGRP:ספורט
 http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2362/index.m3u8
 
 #EXTINF:-1 tvg-id="sport-5-live-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Live.png",sport 5 live
-#EXTGRP:ספורט
 http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2362/index.m3u8
 
 #EXTINF:-1 tvg-id="one-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE.png",ONE
-#EXTGRP:ספורט
 http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2340/index.m3u8
 
 #EXTINF:-1 tvg-id="one-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE.png",ONE
-#EXTGRP:ספורט
 http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2340/index.m3u8
 
 #EXTINF:-1 tvg-id="one-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE.png",ONE
-#EXTGRP:ספורט
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2340/index.m3u8
 
 #EXTINF:-1 tvg-id="one-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE2.png",ONE 2
-#EXTGRP:ספורט
 http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/12231/index.m3u8
 
 #EXTINF:-1 tvg-id="one-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE2.png",ONE 2
-#EXTGRP:ספורט
 http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2373/index.m3u8
 
 #EXTINF:-1 tvg-id="cinema-1-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C1.png",הוט סינמה 1
-#EXTGRP:ערוצי הוט
 http://aa.homedns.org:8000/PadreLuisCunP/UxPjaXng5Q/469988
 
 #EXTINF:-1 tvg-id="3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-3.png",הוט 3
-#EXTGRP:ערוצי הוט
 http://aa.homedns.org:8000/PadreLuisCunP/UxPjaXng5Q/469982
 
 #EXTINF:-1 tvg-id="comedy-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Comedy-Central.png",הוט קומדי סנטרל
-#EXTGRP:ערוצי הוט
 http://aa.homedns.org:8000/PadreLuisCunP/UxPjaXng5Q/469989
-
-
-
-
