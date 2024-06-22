@@ -1,12 +1,8 @@
-#EXTM3U
+⁸#EXTM3U
 #EXTINF:-1 tvg-logo="",כאן 11
 https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
 #EXTINF:-1 tvg-logo="",כאן 11 גיבוי
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
-#EXTINF:-1 tvg-logo="",קשת 12
-https://did.li/lu9w5
-#EXTINF:-1 tvg-logo="",קשת 12 גיבוי
-https://ideorpo.alwaysdata.net/kmb.php?m3u8
 #EXTINF:-1 tvg-logo="",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 #EXTINF:-1 tvg-logo="",רשת 13 גיבוי
