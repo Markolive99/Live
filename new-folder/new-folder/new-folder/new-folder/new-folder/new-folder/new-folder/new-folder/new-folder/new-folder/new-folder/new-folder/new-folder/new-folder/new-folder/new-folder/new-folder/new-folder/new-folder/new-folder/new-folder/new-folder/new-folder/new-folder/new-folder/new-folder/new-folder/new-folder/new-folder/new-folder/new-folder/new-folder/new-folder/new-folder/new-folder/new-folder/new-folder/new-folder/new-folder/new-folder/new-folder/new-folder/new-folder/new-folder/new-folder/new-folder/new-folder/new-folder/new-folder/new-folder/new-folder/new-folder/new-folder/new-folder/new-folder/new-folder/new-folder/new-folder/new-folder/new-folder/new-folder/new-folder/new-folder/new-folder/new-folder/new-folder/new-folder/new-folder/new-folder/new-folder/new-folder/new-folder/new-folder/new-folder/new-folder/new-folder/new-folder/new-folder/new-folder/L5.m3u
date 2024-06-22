@@ -1,0 +1,202 @@
+#EXTM3U url-tvg="https://github.com/dikodahan/share02/raw/main/src/DikoPlusEPG.xml.gz"
+
+#EXTINF:-1 tvg-id="channel-24-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-24.png",channel 24
+http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/12237/index.m3u8
+
+#EXTINF:-1 tvg-id="keshet-12-YES" tvg-logo="https://dikodahan.github.io/picons/light/Keshet-12.png",keshet 12
+http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/12236/index.m3u8
+
+#EXTINF:-1 tvg-id="keshet-12-YES" tvg-logo="https://dikodahan.github.io/picons/light/Keshet-12.png",keshet 12
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/12236/index.m3u8
+
+#EXTINF:-1 tvg-id="keshet-12-YES" tvg-logo="https://dikodahan.github.io/picons/light/Keshet-12.png",keshet 12
+http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/12236/index.m3u8
+
+#EXTINF:-1 tvg-id="reshet-13-YES" tvg-logo="https://dikodahan.github.io/picons/light/Reshet-13.png",reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1 tvg-id="reshet-13-YES" tvg-logo="https://dikodahan.github.io/picons/light/Reshet-13.png",reshet 13
+http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/12260/index.m3u8
+
+#EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-14.png",channel 14
+http://eqatmiyg.megogo.xyz/iptv/VEXVELA6Z7PXH6/12261/index.m3u8
+
+#EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-14.png",channel 14
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/12261/index.m3u8
+
+#EXTINF:-1 tvg-id="now-14-YES" tvg-logo="https://dikodahan.github.io/picons/light/Channel-14.png",channel 14
+http://p1.proiptv.co:88/b8d77e8635516eec/HAZMMWRYQV/278162
+
+#EXTINF:-1 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png",sport 1
+http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/2353/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png",sport 1
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2353/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png",sport 1
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2353/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png", sport 1
+http://es4u.live:88/02020056942311/MQM3S7U5YJ5BEZD/278268
+
+#EXTINF:-1 tvg-id="sport-1-sd-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport1.png", sport 1
+http://es4u.live:88/02059036981256/aQtlzCtA9kqlMci/278268
+
+#EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png",sport 2
+http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/2352/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png",sport 2
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2352/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png",sport 2
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2352/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png",sport 2
+http://es4u.live:88/02059036981256/aQtlzCtA9kqlMci/278269
+
+#EXTINF:-1 tvg-id="sport-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport2.png",sport 2
+http://es4u.live:88/02020056942311/MQM3S7U5YJ5BEZD/278269
+
+#EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
+http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/2388/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
+http://opplex.tv:8080/adnan8710/adnan/351345
+
+#EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
+http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/2388/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
+http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2388/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-3-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport3.png",sport 3
+http://p1.proiptv.co:88/b8d77e8635516eec/HAZMMWRYQV/278206
+
+#EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png",sport 4
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2389/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png",sport 4
+http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/2389/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png",sport 4
+http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/2389/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png",sport 4
+http://es4u.live:88/02020056942311/MQM3S7U5YJ5BEZD/278271
+
+#EXTINF:-1 tvg-id="sport-4-YES" tvg-logo="https://dikodahan.github.io/picons/light/Sport4.png",sport 4
+http://es4u.live:88/02059036981256/aQtlzCtA9kqlMci/278271
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2391/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
+http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2391/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2391/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
+http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/2391/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-5-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport.png",sport 5
+http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/2391/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-5-4k-YES" tvg-name="sport.5.4k.il" tvg-shift="0" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport-4K.png",sport 5 4k
+http://es4u.live:88/02020056942311/MQM3S7U5YJ5BEZD/278216
+
+#EXTINF:-1 tvg-id="sport-5-4k-YES" tvg-name="sport.5.4k.il" tvg-shift="0" tvg-logo="https://dikodahan.github.io/picons/light/5-Sport-4K.png",sport 5 4k
+http://es4u.live:88/02059036981256/aQtlzCtA9kqlMci/278216
+
+#EXTINF:-1 tvg-id="sport-5-live-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Live.png",sport 5 live
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2362/index.m3u8
+
+#EXTINF:-1 tvg-id="sport-5-live-YES" tvg-logo="https://dikodahan.github.io/picons/light/5-Live.png",sport 5 live
+http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2362/index.m3u8
+
+#EXTINF:-1 tvg-id="one-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE.png",ONE
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2340/index.m3u8
+
+#EXTINF:-1 tvg-id="one-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE.png",ONE
+http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2340/index.m3u8
+
+#EXTINF:-1 tvg-id="one-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE.png",ONE
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2340/index.m3u8
+
+#EXTINF:-1 tvg-id="one-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE2.png",ONE 2
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/12231/index.m3u8
+
+#EXTINF:-1 tvg-id="one-2-YES" tvg-logo="https://dikodahan.github.io/picons/light/ONE2.png",ONE 2
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2373/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-1-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C1.png",הוט סינמה 1
+http://aa.homedns.org:8000/PadreLuisCunP/UxPjaXng5Q/469988
+
+#EXTINF:-1 tvg-id="cinema-1-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C1.png",הוט סינמה 1
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2357/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-2-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C2.png",הוט סינמה 2
+http://p1.proiptv.co:88/b8d77e8635516eec/HAZMMWRYQV/278258
+
+#EXTINF:-1 tvg-id="cinema-2-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C2.png",הוט סינמה 2
+http://es4u.live:88/02020056942311/MQM3S7U5YJ5BEZD/278258
+
+#EXTINF:-1 tvg-id="cinema-2-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C2.png",הוט סינמה 2
+http://es4u.live:88/02059036981256/aQtlzCtA9kqlMci/278258
+
+#EXTINF:-1 tvg-id="cinema-3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C3.png",הוט סינמה 3
+http://p1.proiptv.co:88/b8d77e8635516eec/HAZMMWRYQV/278259
+
+#EXTINF:-1 tvg-id="cinema-3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C3.png",הוט סינמה 3
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2372/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-4-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C4.png",הוט סינמה 4
+http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2356/index.m3u8
+
+#EXTINF:-1 tvg-id="cinema-4-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-C4.png",הוט סינמה 4
+http://p1.proiptv.co:88/b8d77e8635516eec/HAZMMWRYQV/278260
+
+#EXTINF:-1 tvg-id="3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-3.png",הוט 3
+http://aa.homedns.org:8000/PadreLuisCunP/UxPjaXng5Q/469982
+
+#EXTINF:-1 tvg-id="3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-3.png",הוט 3
+http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2367/index.m3u8
+
+#EXTINF:-1 tvg-id="3-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-3.png",הוט 3
+http://mohdtv.com:8880/voby4773/46643342/61789
+
+#EXTINF:-1 tvg-id="entertainment-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Bidur.png",הוט בידור ישראלי
+http://49dba766.amazzin.pw/iptv/QF4F4XRW79PBHM/2379/index.m3u8
+
+#EXTINF:-1 tvg-id="entertainment-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Bidur.png",הוט בידור ישראלי
+http://e9530103.edmonst.net/iptv/QC9SUMZWLSTDSN/2379/index.m3u8
+
+#EXTINF:-1 tvg-id="entertainment-HOT" tvg-logo="https://dikodahan.github.io/picons/light/HOT-Bidur.png",הוט בידור ישראלי
+http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/2379/index.m3u8
+
+#EXTINF:-1 tvg-id="israeli-cinema-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Israeli.png",יס קולנוע ישראלי
+http://extraott.com/7921751389/6097373662/376511
+
+#EXTINF:-1 tvg-id="israeli-cinema-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Israeli.png",יס קולנוע ישראלי
+http://opplex.tv:8080/43563210/67543210/351355
+
+#EXTINF:-1 tvg-id="israeli-cinema-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Israeli.png",יס קולנוע ישראלי
+http://opplex.tv:8080/BORNINFB270/52017394/351355
+
+#EXTINF:-1 tvg-id="israeli-cinema-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Israeli.png",יס קולנוע ישראלי
+http://opplex.tv:8080/adnan8710/adnan/351355
+
+#EXTINF:-1 tvg-id="tv-comedy-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-TV-Comedy.png",יס טלויזיה קומדיה
+http://extraott.com/7921751389/6097373662/189683
+
+#EXTINF:-1 tvg-id="docu-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Docu.png",יס דוקו
+http://082dd340.amazzin.pw/iptv/H3P88UYE7RW6B7/7113/index.m3u8
+
+#EXTINF:-1 tvg-id="docu-YES" tvg-logo="https://dikodahan.github.io/picons/light/Yes-Docu.png",יס דוקו
+http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/7113/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic-YES" tvg-logo="https://dikodahan.github.io/picons/light/National-Geographic.png",נשיונל ג׳יאוגרפיק
+http://rhsbjv7k.tvclub.xyz/iptv/LY9PHWZHRXA5SE/12259/index.m3u8
+
+#EXTINF:-1 tvg-id="national-geographic-YES" tvg-logo="https://dikodahan.github.io/picons/light/National-Geographic.png",נשיונל ג׳יאוגרפיק
+http://pnctfayw.otttv.pw/iptv/RHHB4NVNEBXX4M/12259/index.m3u8

@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="mutv" tvg-name="MU TV" group-title="ספורט",mutv
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="realmadridtv" tvg-name="Real Madrid TV" group-title="ספורט",real madrid tv
+https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="wwe" tvg-name="WWE" group-title="ספורט",wwe
+http://tv.cloudcdn.me:80/live.ts?channelId=4244&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 tvg-id="motortv" tvg-name="Motor TV" group-title="ספורט",motor tv
+https://motorsportnetwork-motor1tv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tennistv" tvg-name="Tennis TV" group-title="ספורט",tennis tv
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RHC" tvg-name="RHC" group-title="ספורט",RHC
+https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="redbulltv" tvg-name="Red Bull TV" group-title="ספורט",red bull tv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="ufc" tvg-name="UFC Channel" group-title="ספורט",Ufc channel
+http://143.244.60.30/UFC/index.m3u8
+
+#EXTINF:-1 tvg-id="mtvclub" tvg-name="MTV CLUB" group-title="מוזיקה",MTV CLUB
+http://iptv.prosto.tv:7000/ch125/video.m3u8
+#EXTINF:-1 tvg-id="music4ever" tvg-name="Music 4 Ever" group-title="מוזיקה",music 4 ever
+http://iptv.prosto.tv:7000/ch132/video.m3u8
+#EXTINF:-1 tvg-id="vh1" tvg-name="VH1" group-title="מוזיקה",Vh1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="dstvmusic" tvg-name="DStv Music" group-title="מוזיקה",dstv misic
+http://46.249.95.140:8081/hls/data.m3u8
